@@ -33,3 +33,8 @@
  </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaysatasiya&show_icons=true&locale=en&layout=compact" alt="akshaysatasiya" /></p>
+
+
+## 📊 GitHub Stats and Streak
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kathan1910&theme=dark&show_icons=true&hide_border=false) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kathan1910&theme=dark&hide_border=false)
