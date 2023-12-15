@@ -29,7 +29,7 @@
                 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="40" />
               <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="40" /></a>  
 
-              </a>  
+               
  </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaysatasiya&show_icons=true&locale=en&layout=compact" alt="akshaysatasiya" /></p>
