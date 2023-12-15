@@ -13,7 +13,7 @@
 </div>
 
 
-<h3 align="center">Passionate Data Scientist and AI Enthusiast | Expertise in Machine Learning, Deep Learning, | Proficient in Python, TensorFlow, Keras, scikit-learn,| Transforming Complex Data into Actionable Insights</h3>
+<h3 align="center">Passionate Data Scientist and AI Enthusiast | Expertise in Machine Learning & Deep Learning | Proficient in Python, TensorFlow, Keras, scikit-learn| Transforming Complex Data into Actionable Insights</h3>
 
 
 
