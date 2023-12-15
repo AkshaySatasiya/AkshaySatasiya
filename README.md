@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Akshay Satasiya</h1>
 
 <div align="center" style="margin-bottom: 10px;">
-  <a href="mailto:kathanpatel1910@gmail.com" target="_blank" style="margin-right: 5px;">
+  <a href="mailto:AKSHAYAJS2811@gmail.com" target="_blank" style="margin-right: 5px;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail logo" />
   </a>
-  <a href="https://linkedin.com/in/kathan19" target="_blank" style="margin-right: 5px;">
+  <a href="https://linkedin.com/in/akshaysatasiya" target="_blank" style="margin-right: 5px;">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
-</div>
-<div align="center">
-  <a href="https://twitter.com/KathanPate37899" target="_blank" style="margin-right: 5px;">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30" />
-  </a>
-  <a href="https://github.com/kathan1910" target="_blank">
+    <a href="https://github.com/AkshaySatasiya" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" />
   </a>
 </div>
+
 
 <h3 align="center">Passionate Data Scientist and AI Enthusiast | Expertise in Machine Learning, Deep Learning, | Proficient in Python, TensorFlow, Keras, scikit-learn,| Transforming Complex Data into Actionable Insights</h3>
 
