@@ -60,7 +60,3 @@ Armed with a Master of Computer Applications (MCA) from the prestigious [Lalbhai
 <p align = "center">
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/akshaysatasiya)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@akshaysatasiya2811)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaysatasiya&show_icons=true&locale=en&layout=compact" alt="Akshay's Top Languages" />
-</p>
