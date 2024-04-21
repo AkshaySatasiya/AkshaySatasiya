@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Akshay Satasiya</h1>
-
+<p align="center"><img width="80%" alt="Hello, I'm Akshay. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 <div align="center" style="margin-bottom: 10px;">
   <a href="mailto:AKSHAYAJS2811@gmail.com" target="_blank" style="margin-right: 5px;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail logo" />
