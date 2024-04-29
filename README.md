@@ -10,6 +10,7 @@ Armed with a Master of Computer Applications (MCA) from the prestigious [Lalbhai
 #### Languages:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/sql-F29111?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
 
 #### ML/DL
 
@@ -58,5 +59,5 @@ Armed with a Master of Computer Applications (MCA) from the prestigious [Lalbhai
 ## Connect with me:
 
 <p align = "center">
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/akshaysatasiya)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@akshaysatasiya2811)
+![<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/akshaysatasiya/)
+![<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@akshaysatasiya2811)
