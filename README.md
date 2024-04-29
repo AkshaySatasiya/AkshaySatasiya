@@ -59,5 +59,6 @@ Armed with a Master of Computer Applications (MCA) from the prestigious [Lalbhai
 ## Connect with me:
 
 <p align = "center">
+  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/akshaysatasiya)
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black)](https://medium.com/@akshaysatasiya2811)
