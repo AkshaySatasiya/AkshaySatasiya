@@ -7,21 +7,17 @@ Armed with a Master of Computer Applications (MCA) from the prestigious [Lalbhai
 
 ## Connect with me:
 
-<p align = "center">
-  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/akshaysatasiya)
-[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black)](https://medium.com/@akshaysatasiya2811)
-<div align="center" style="margin-bottom: 10px;">
-  <a href="mailto:kathanpatel1910@gmail.com" target="_blank" style="margin-right: 5px;">
+<div align="left" style="margin-bottom: 10px;">
+  <a href="mailto:akshayajs2811@gmail.com" target="_blank" style="margin-right: 5px;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail logo" />
   </a>
-  <a href="https://linkedin.com/in/kathan19" target="_blank" style="margin-right: 5px;">
+  <a href="https://www.linkedin.com/in/akshaysatasiya" target="_blank" style="margin-right: 5px;">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
-  <a href="https://medium.com/@kathanpatel1910" target="_blank" style="margin-right: 5px;">
+  <a href="https://medium.com/@akshaysatasiya2811" target="_blank" style="margin-right: 5px;">
     <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="30" />
   </a>
-  <a href="https://github.com/kathan1910" target="_blank">
+  <a href="https://github.com/AkshaySatasiya" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" />
   </a>
 </div>
@@ -37,6 +33,7 @@ Armed with a Master of Computer Applications (MCA) from the prestigious [Lalbhai
 #### ML/DL
 
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 ![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
 ![NLP](https://img.shields.io/badge/NLP-0D9BEF?style=for-the-badge&logoColor=white)&nbsp;
