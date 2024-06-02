@@ -22,6 +22,7 @@ Armed with a Master of Computer Applications (MCA) from the prestigious [Lalbhai
   </a>
 </div>
 
+<br/>  
 
 ## Skills:
 
@@ -36,7 +37,8 @@ Armed with a Master of Computer Applications (MCA) from the prestigious [Lalbhai
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 ![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
-![NLP](https://img.shields.io/badge/NLP-0D9BEF?style=for-the-badge&logoColor=white)&nbsp;
+![NLP](https://img.shields.io/badge/NLP-0D9BEF?style=for-the-badge&logoColor=white)&nbsp;<br/>  
+
 ![OpenCV](https://img.shields.io/badge/opencv-138DFF?style=for-the-badge&logo=OpenCV)&nbsp;
 ![YOLO](https://img.shields.io/badge/yolo-00FFFF?style=for-the-badge&)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
