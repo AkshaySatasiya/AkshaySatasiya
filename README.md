@@ -62,3 +62,12 @@ Armed with a Master of Computer Applications (MCA) from the prestigious [Lalbhai
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/akshaysatasiya)
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black)](https://medium.com/@akshaysatasiya2811)
+
+
+## 📊 GitHub Stats and Streak
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshaySatasiya&theme=dark&show_icons=true&hide_border=false) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkshaySatasiya&theme=dark&hide_border=false)
+
+## 🌟 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshaySatasiya&theme=dark&layout=compact&hide_border=false&langs_count=6&exclude_repo=github-readme-stats)
