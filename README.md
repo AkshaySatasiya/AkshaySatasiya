@@ -36,7 +36,6 @@ Armed with a Master of Computer Applications (MCA) from the prestigious [Lalbhai
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
-![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
 ![NLP](https://img.shields.io/badge/NLP-0D9BEF?style=for-the-badge&logoColor=white)&nbsp;<br/>  
 
 ![OpenCV](https://img.shields.io/badge/opencv-138DFF?style=for-the-badge&logo=OpenCV)&nbsp;
@@ -66,6 +65,8 @@ Armed with a Master of Computer Applications (MCA) from the prestigious [Lalbhai
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
+
 
 
 #### IDEs
