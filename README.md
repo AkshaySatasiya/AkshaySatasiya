@@ -1,4 +1,4 @@
-### Hi there, I'm [Akshay Satasiya](https://github.com/AkshaySatasiya/AkshaySatasiya) 👋
+# Hi there, I'm [Akshay Satasiya](https://github.com/AkshaySatasiya/AkshaySatasiya) 👋
 
 A dedicated professional with a strong passion for the dynamic world of data. Currently working as an AI-ML Trainee at [Upforce Tech](https://upforcetech.com/), I am on an exciting journey of exploration, with a particular focus on diving into the fascinating realm of Generative AI.
 
