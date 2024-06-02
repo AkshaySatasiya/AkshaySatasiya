@@ -75,11 +75,9 @@ Armed with a Master of Computer Applications (MCA) from the prestigious [Lalbhai
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
-
+<br/>  
 ## 📊 GitHub Stats and Streak
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshaySatasiya&theme=dark&show_icons=true&hide_border=false) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkshaySatasiya&theme=dark&hide_border=false)
 
 ## 🌟 Top Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshaySatasiya&theme=dark&layout=compact&hide_border=false&langs_count=6&exclude_repo=github-readme-stats)
