@@ -11,7 +11,20 @@ Armed with a Master of Computer Applications (MCA) from the prestigious [Lalbhai
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/akshaysatasiya)
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black)](https://medium.com/@akshaysatasiya2811)
-
+<div align="center" style="margin-bottom: 10px;">
+  <a href="mailto:kathanpatel1910@gmail.com" target="_blank" style="margin-right: 5px;">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail logo" />
+  </a>
+  <a href="https://linkedin.com/in/kathan19" target="_blank" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
+  </a>
+  <a href="https://medium.com/@kathanpatel1910" target="_blank" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="30" />
+  </a>
+  <a href="https://github.com/kathan1910" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" />
+  </a>
+</div>
 
 
 ## Skills:
