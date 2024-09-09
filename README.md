@@ -1,8 +1,21 @@
-# Hi there, I'm [Akshay Satasiya](https://github.com/AkshaySatasiya/AkshaySatasiya) 👋
+# 👋 Hello! I'm [Akshay Satasiya](https://github.com/AkshaySatasiya/AkshaySatasiya)
 
-A dedicated professional with a strong passion for the dynamic world of data. Currently working as an AI-ML Trainee at [Upforce Tech](https://upforcetech.com/), I am on an exciting journey of exploration, with a particular focus on diving into the fascinating realm of Generative AI.
+A passionate AI/ML Developer at Nexgits, committed to pushing the boundaries of data science and generative AI. My journey in the tech world began with a strong foundation in data science during my Master of Computer Applications (MCA) at [L. D. College of Engineering](https://ldce.ac.in/). Today, I specialize in developing innovative AI applications that are shaping the future of technology.
 
-Armed with a Master of Computer Applications (MCA) from the prestigious [Lalbhai Dalpatbhai College of Engineering](https://ldce.ac.in/), my comprehensive skill set includes Python, Statistics, Machine Learning, Deep Learning, Generative AI and Computer Vision. I am committed to leveraging the power of data to drive innovation.
+## 💡 What I Do:
+At [Nexgits](https://nexgits.com/), I'm immersed in cutting-edge projects that leverage the power of AI to solve complex problems. My expertise spans across:
+- **Generative AI**: Building systems for autonomous content creation.
+- **Large Language Models (LLMs)**: Crafting models that drive intelligent conversations and content generation.
+- **Natural Language Processing (NLP)**: Developing text generation models that understand and produce human-like text.
+- **OCR & Web Scraping**: Extracting and processing critical data from various sources.
+
+## 🚀 Professional Milestones:
+- **AI/ML Trainee at [Upforce Tech](https://upforcetech.com/)**: Delved deep into generative AI, gaining hands-on experience with LangChain, LlamaIndex, cloud services, and vector databases. Contributed to AI systems that drive innovation in content generation.
+- **Junior AI/ML Developer at [Nexgits](https://nexgits.com/)**: Currently leading projects focused on NLP, OCR, web scraping, and LLMs, continuously exploring new avenues in AI.
+
+## 🌱 Why I Love What I Do:
+The AI landscape is ever-evolving, and I thrive on the challenges it presents. Whether it's optimizing an existing model or pioneering a new one, I’m driven by the endless possibilities at the intersection of data science and AI.
+
 
 
 ## Connect with me:
