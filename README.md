@@ -3,7 +3,7 @@
 A passionate AI/ML Developer at Nexgits, committed to pushing the boundaries of data science and generative AI. My journey in the tech world began with a strong foundation in data science during my Master of Computer Applications (MCA) at [L. D. College of Engineering](https://ldce.ac.in/). Today, I specialize in developing innovative AI applications that are shaping the future of technology.
 
 ## 💡 What I Do:
-At [Nexgits](https://nexgits.com/), I'm immersed in cutting-edge projects that leverage the power of AI to solve complex problems. My expertise spans across:
+At Nexgits, I'm immersed in cutting-edge projects that leverage the power of AI to solve complex problems. My expertise spans across:
 - **Generative AI**: Building systems for autonomous content creation.
 - **Large Language Models (LLMs)**: Crafting models that drive intelligent conversations and content generation.
 - **Natural Language Processing (NLP)**: Developing text generation models that understand and produce human-like text.
