@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Akshay Satasiya](https://github.com/AkshaySatasiya/AkshaySatasiya)
+# 👋 Hello! I'm [Akshay Satasiya](https://www.linkedin.com/in/akshaysatasiya/)
 
 A passionate AI/ML Developer at Nexgits, committed to pushing the boundaries of data science and generative AI. My journey in the tech world began with a strong foundation in data science during my Master of Computer Applications (MCA) at [L. D. College of Engineering](https://ldce.ac.in/). Today, I specialize in developing innovative AI applications that are shaping the future of technology.
 
