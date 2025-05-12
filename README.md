@@ -97,3 +97,9 @@ The AI landscape is ever-evolving, and I thrive on the challenges it presents. W
 
 ## 🌟 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshaySatasiya&theme=dark&layout=compact&hide_border=false&langs_count=6&exclude_repo=github-readme-stats)
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AkshaySatasiya/AkshaySatasiya/output/github-contribution-grid-snake.svg" />
+</p>
+
